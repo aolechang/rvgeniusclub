@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "streamlit>=1.61.1",
+    "st-gsheets-connection>=0.1.0",
 ]
 
 [tool.uv]
